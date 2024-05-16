@@ -1,0 +1,45 @@
+form {
+    width: 100%;
+    text-align: center;
+    background-color: #FFC72C; /* Saffron color */
+    padding: 2em;
+    border-radius: 1em;
+}
+
+input, audio {
+    width: 25em;
+    margin: 2em 0;
+    padding: 0.5em;
+    border: 1px solid #FF8833; /* Darker saffron */
+    border-radius: 0.5em;
+}
+
+#interval {
+    width: 10em;
+}
+
+#recorder {
+    font-size: 1em;
+    width: 20em;
+    padding: 0.5em;
+    border: 1px solid #FF8833; /* Darker saffron */
+    border-radius: 0.5em;
+}
+
+#submit {
+    border-radius: 3em;
+    height: 5em;
+    background-color: #FF8833; /* Darker saffron */
+    color: white;
+    border: none;
+    padding: 1em 2em;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+p {
+    font-size: 1.5em;
+    white-space: pre-line;
+    color: #FF8833; /* Darker saffron */
+}
+
